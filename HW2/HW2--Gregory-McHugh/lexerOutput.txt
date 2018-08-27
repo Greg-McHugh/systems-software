@@ -1,0 +1,5 @@
+Symbolic Lexeme List
+varsym identsym in commasym identsym out semicolonsym beginsym readsym identsym in semicolonsym identsym out becomesym identsym in semicolonsym whilesym identsym in gtrsym numbersym 1 dosym beginsym identsym in becomesym identsym in minussym numbersym 1 semicolonsym identsym out becomesym identsym out multsym identsym in endsym semicolonsym writesym identsym out endsym periodsym 
+
+Lexeme List
+29 2 in 17 2 out 18 21 32 2 in 18 2 out 20 2 in 18 25 2 in 13 3 1 26 21 2 in 20 2 in 5 3 1 18 2 out 20 2 out 6 2 in 22 18 31 2 out 22 19 

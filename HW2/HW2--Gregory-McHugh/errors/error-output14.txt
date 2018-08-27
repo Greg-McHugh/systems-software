@@ -1,0 +1,7 @@
+Symbolic Lexeme List
+beginsym readsym endsym periodsym 
+
+Lexeme List
+21 32 22 19 
+
+ERROR: read must be followed by identifier

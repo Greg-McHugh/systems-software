@@ -1,0 +1,23 @@
+/* sample program */
+
+const max = 100;
+var count, input, result, 0wrong0;
+
+begin
+	read input;
+	
+	if input <> 0 then
+	begin
+		count := 0;
+		result := 0;
+		
+		while count < max do
+		begin
+			count := count + 1;
+			result := result + (count * input)
+		end;
+	end;
+	else result := 0;
+	
+	write result
+end.

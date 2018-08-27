@@ -1,0 +1,5 @@
+var n;
+
+begin
+  call n
+end.

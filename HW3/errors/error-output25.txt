@@ -1,0 +1,7 @@
+Symbolic Lexeme List
+varsym identsym n semicolonsym beginsym callsym identsym n endsym periodsym 
+
+Lexeme List
+29 2 n 18 21 27 2 n 22 19 
+
+ERROR: calling a contant or variable is pointless

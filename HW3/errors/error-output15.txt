@@ -1,0 +1,7 @@
+Symbolic Lexeme List
+constsym identsym max eqlsym numbersym 100 semicolonsym varsym identsym count commasym identsym input commasym identsym result semicolonsym beginsym readsym identsym max semicolonsym ifsym identsym input neqsym numbersym 0 thensym beginsym identsym count becomesym numbersym 0 semicolonsym identsym result becomesym numbersym 0 semicolonsym whilesym identsym count lessym identsym max dosym beginsym identsym count becomesym identsym count plussym numbersym 1 semicolonsym identsym result becomesym identsym result plussym lparentsym identsym count multsym identsym input rparentsym endsym semicolonsym endsym semicolonsym identsym else identsym result becomesym numbersym 0 semicolonsym writesym identsym max endsym periodsym 
+
+Lexeme List
+28 2 max 9 3 100 18 29 2 count 17 2 input 17 2 result 18 21 32 2 max 18 23 2 input 10 3 0 24 21 2 count 20 3 0 18 2 result 20 3 0 18 25 2 count 11 2 max 26 21 2 count 20 2 count 4 3 1 18 2 result 20 2 result 4 15 2 count 6 2 input 16 22 18 22 18 2 else 2 result 20 3 0 18 31 2 max 22 19 
+
+ERROR: read must be followed by a variable

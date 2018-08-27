@@ -1,0 +1,25 @@
+1.	period expected
+2.	const must be followed by an identifier
+3.	use = instead of := when declaring a const
+4.	= must follow an identifier for const declarations
+5.	= must be followed by a number for const declarations
+6.	semicolon or comma expected
+7.	var must be followed by an identifier
+8.	identifier must start with a letter
+9.	identifier is not a variable
+10.	assignment operator expected
+11.	semicolon or end expected
+12.	then expected
+13.	do expected
+14.	read must be followed by identifier
+15.	read must be followed by a variable
+16.	write must be followed by identifier
+17.	comments must end with */
+18.	right parenthesis missing
+19.	left parenthesis missing
+20.	invalid symbol
+21.	undeclared identifier
+22.	identifier can't be longer than 11 characters
+23.	number can’t be longer than 5 digits
+24.	call must be followed by an identifier
+25.	calling a constant or a variable is pointless

@@ -1,0 +1,5 @@
+Symbolic Lexeme List
+varsym identsym answer semicolonsym procsym identsym add semicolonsym constsym identsym a eqlsym numbersym 21 commasym identsym b eqlsym numbersym 12 semicolonsym beginsym identsym answer becomesym identsym a plussym identsym b semicolonsym endsym semicolonsym beginsym callsym identsym add semicolonsym writesym identsym answer endsym periodsym 
+
+Lexeme List
+29 2 answer 18 30 2 add 18 28 2 a 9 3 21 17 2 b 9 3 12 18 21 2 answer 20 2 a 4 2 b 18 22 18 21 27 2 add 18 31 2 answer 22 19 

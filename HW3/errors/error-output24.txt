@@ -1,0 +1,7 @@
+Symbolic Lexeme List
+beginsym callsym endsym periodsym 
+
+Lexeme List
+21 27 22 19 
+
+ERROR: call must be followed by identifier

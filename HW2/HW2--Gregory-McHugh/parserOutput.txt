@@ -1,0 +1,27 @@
+No errors, program is syntactically correct.
+
+Assembly Code
+Line	OP	L	M
+0	jmp	0	1
+1	inc	0	6
+2	sio	0	2
+3	sto	0	4
+4	lod	0	4
+5	sto	0	5
+6	lod	0	4
+7	lit	0	1
+8	opr	0	12
+9	jpc	0	19
+10	lod	0	4
+11	lit	0	1
+12	opr	0	3
+13	sto	0	4
+14	lod	0	5
+15	lod	0	4
+16	opr	0	4
+17	sto	0	5
+18	jmp	0	6
+19	lod	0	5
+20	sio	0	1
+21	opr	0	0
+22	sio	0	3

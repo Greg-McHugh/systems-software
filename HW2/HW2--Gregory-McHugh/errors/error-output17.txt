@@ -1,0 +1,1 @@
+ERROR: comments must end with */

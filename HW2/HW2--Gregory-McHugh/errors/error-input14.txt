@@ -1,0 +1,4 @@
+/* sample program */
+begin
+	read
+end.
